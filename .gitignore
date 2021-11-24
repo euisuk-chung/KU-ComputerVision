@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ban Pickle files from uploading
+Assignment4/pickle/*.pkl
