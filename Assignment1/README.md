@@ -7,5 +7,5 @@
 
 ---
 # Result
-- Task 1 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment1/renderer.ipynb)
-- Task 2 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment1/sphere.ipynb)
+- Task 1 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment1/sphere.ipynb)
+- Task 2 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment1/renderer.ipynb)
