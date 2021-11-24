@@ -15,4 +15,4 @@
 
 ---
 # Result
-- Task 1 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment4/stiching.ipynb)
+- Task 1 [jupyter notebook](https://github.com/euisuk-chung/KU-ComputerVision/blob/main/Assignment4/stitching.ipynb)
